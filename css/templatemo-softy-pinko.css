@@ -152,7 +152,7 @@ body {
   font-weight: 500;
   font-size: 24px;
   line-height: 42px;
-  color: #F0EAF7;
+  color: #ff98e0;
   letter-spacing: 0.25px;
   margin-bottom: 30px;
   position: relative;
@@ -165,7 +165,7 @@ body {
 .center-heading .section-title {
   font-weight: 500;
   font-size: 28px;
-  color: #F0EAF7;
+  color: #ff98e0;
   letter-spacing: 1.75px;
   line-height: 38px;
   margin-bottom: 20px;
@@ -191,7 +191,7 @@ body {
 
 .center-text p {
   font-size: 15px;
-  color: #777;
+  color: #F0EAF7;
   margin-bottom: 30px;
 }
 
@@ -209,7 +209,7 @@ body {
 
 .left-text p {
   margin-bottom: 30px;
-  color: #ff98e0;
+  color: #F0EAF7;
 }
 
 .left-text p.dark {
@@ -1364,7 +1364,7 @@ blog
 .blog-post-thumb .text {
   font-weight: 400;
   font-size: 13px;
-  color: #777;
+  color: #F0EAF7;
   letter-spacing: 0.26px;
   line-height: 26px;
   margin-bottom: 15px;
